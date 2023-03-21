@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kevinlan888
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java C++
-- 💞️ I’m looking to collaborate on Minecraft Mods
+- 🌱 I’m currently learning C++
 - 📫 How to reach me : github
 
 <!---
